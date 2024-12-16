@@ -72,3 +72,17 @@ footer {
     color: white;
     margin-top: 20px;
 }
+
+.download-resume-btn {
+    background-color: #4CAF50; /* Green background */
+    color: white;              /* White text */
+    padding: 10px 20px;        /* Padding around text */
+    text-decoration: none;     /* Remove underline */
+    border-radius: 5px;        /* Rounded corners */
+    display: inline-block;
+    transition: background-color 0.3s ease; /* Smooth transition */
+  }
+  
+  .download-resume-btn:hover {
+    background-color: #45a049; /* Darker green on hover */
+  }
